@@ -29,8 +29,8 @@
   <h2>🛠️ Tecnologias Utilizadas</h2>
     <ul>
         <li><strong>Banco de Dados:</strong> MySQL</li>
-        <li><strong>Linguagens:</strong> [Insira as linguagens utilizadas, ex.: HTML, CSS, JavaScript]</li>
-        <li><strong>Frameworks/Bibliotecas:</strong> [Liste os frameworks ou bibliotecas, se houver]</li>
+        <li><strong>Linguagens:</strong> Python, JavaScript, HTML</li>
+        <li><strong>Frameworks/Bibliotecas:</strong> Flask</li>
     </ul>
     
   <h2>📂 Estrutura do Projeto</h2>
@@ -51,7 +51,7 @@
    <h2>📧 Contato</h2>
     <p>
         Desenvolvido por <strong>Marcos Lugui Belmonte</strong>.  
-        Entre em contato: <a href="mailto:seu-email@example.com">seu-email@example.com</a>
+        Entre em contato: <a href="mailto:seu-email@example.com">marcos.belmonte2703@gmail.com</a>
     </p>
 </body>
 </html>
